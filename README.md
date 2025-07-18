@@ -34,4 +34,4 @@ Berikut adalah beberapa teknologi yang saya kuasai:
 
 ### 📊 Statistik GitHub Saya
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyd-nrzlvn&show_icons=true&theme=radical)
